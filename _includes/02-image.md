@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sunset](https://cdn.vectorstock.com/i/1000x1000/28/37/sunset-over-water-vector-202837.webp)
